@@ -20,5 +20,6 @@ int main() {
 		b4 = 6000 * 10 + 7000 * 10 + 8500 * 10 + 10000 * (a - 30);
 		printf("Tong tien: %.0f VND", b4); 
 	} 
-	return 1000 ; 
+	return 0 ; 
 } 
+
